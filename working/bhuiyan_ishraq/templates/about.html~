@@ -1,0 +1,7 @@
+<!DOCTYPE HTML>
+
+<h1> About Page </h1>
+
+<p> Welcome to the About page. There's not much I can tell you about. Sorry </p>
+
+<button><a href="/login"> Log In </a></button>
